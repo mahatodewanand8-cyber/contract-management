@@ -14,14 +14,15 @@ View all contracts in a centralized dashboard
 Revoke contracts and update their status to pending
 Centralized state management using Context API
 Client-side application with no backend dependency
+
 Technology Stack
 Frontend: React
 Language: TypeScript
 State Management: Context API with useReducer
 Styling: CSS
 Version Control: Git and GitHub
+
 Project Structure
-Copy code
 
 contract-management/
 │
