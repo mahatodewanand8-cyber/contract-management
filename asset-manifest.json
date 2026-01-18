@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contract-management/static/css/main.157a671c.css",
+    "main.js": "/contract-management/static/js/main.d66085c2.js",
+    "index.html": "/contract-management/index.html",
+    "main.157a671c.css.map": "/contract-management/static/css/main.157a671c.css.map",
+    "main.d66085c2.js.map": "/contract-management/static/js/main.d66085c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.157a671c.css",
+    "static/js/main.d66085c2.js"
+  ]
+}
